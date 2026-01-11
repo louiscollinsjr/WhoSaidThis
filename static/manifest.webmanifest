@@ -1,0 +1,10 @@
+{
+  "name": "Scripture Speed",
+  "short_name": "ScriptureSpeed",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f0f0f",
+  "background_color": "#0f0f0f",
+  "icons": [],
+  "description": "Daily scripture quiz with speed-based scoring and leaderboards"
+}
