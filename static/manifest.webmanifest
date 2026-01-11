@@ -5,6 +5,12 @@
   "display": "standalone",
   "theme_color": "#0f0f0f",
   "background_color": "#0f0f0f",
-  "icons": [],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
   "description": "Daily scripture quiz with speed-based scoring and leaderboards"
 }
